@@ -23,7 +23,7 @@
  * Points to a shared Drive file with automatic download
  * @type {string}
  */
-const RESUME_DOWNLOAD_URL = 'https://drive.google.com/uc?export=download&id=1KSrrKW6pnqJEkzAlzJLiUm3X0t_mq1ry';
+const RESUME_DOWNLOAD_URL = 'https://drive.google.com/file/d/1Kdynen2jrKkj9xyDfX-Bs_zhsN5wrFxB/view?usp=sharing';
 
 /**
  * Google Apps Script deployment URL for email tracking
